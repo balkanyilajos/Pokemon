@@ -1,0 +1,41 @@
+:root {
+    --button-font: #ffffff;
+    --button-bgcolor: #517d81;
+    --error-color: rgb(193, 0, 0);
+}
+
+.login, .register {
+    width: 40%;
+    text-align: right;
+    margin: 2em auto;
+}
+
+.login input, .register input {
+    text-align: left;
+    width: 60%;
+}
+
+.login label, .register label {
+    float: left;
+}
+
+.login button, .register button {
+    font-size: inherit;
+    color: var(--button-font);
+    background-color: var(--button-bgcolor);
+    padding: 0.3em;
+    margin: 0.5em 0em;
+    cursor: pointer;
+    user-select: none;
+}
+
+.login a, .register a {
+    color: inherit;
+    text-decoration: none;
+    transition: 0.2s;
+    margin: 0.5em 0.5em; 
+}
+
+.error {
+    color: var(--error-color);
+}

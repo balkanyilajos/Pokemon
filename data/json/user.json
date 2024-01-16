@@ -1,0 +1,16 @@
+{
+    "6588221c7ef4a": {
+        "username": "admin",
+        "password": "$2y$10$NFzwNgbN.mLBAljCYKhPWeSMtX1lBr.pEFTeXFORpSOxSm9hbgd2u",
+        "role": "admin",
+        "id": "6588221c7ef4a"
+    },
+    "658eab173326a": {
+        "username": "Balk\u00e1nyi Lajos",
+        "email": "balkanyilajos@gmail.com",
+        "password": "$2y$10$A03riZlDQUkwaZWlJQdrhu.3HnQzhXW0UwNOMbgIhpvJyC\/39kmcO",
+        "coins": 8840,
+        "role": "user",
+        "id": "658eab173326a"
+    }
+}

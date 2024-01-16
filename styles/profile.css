@@ -1,0 +1,19 @@
+:root {
+    --button-font: #ffffff;
+    --button-bgcolor: #517d81;
+}
+
+main h1 {
+    color: black;
+    margin: 1em 3em 0.5em 3em;
+}
+
+button {
+    font-size: inherit;
+    color: var(--button-font);
+    background-color: var(--button-bgcolor);
+    padding: 0.3em;
+    margin: 0.5em 0em;
+    cursor: pointer;
+    user-select: none;
+}
